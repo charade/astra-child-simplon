@@ -35,4 +35,42 @@ Template: astra
 }
 
 /* your code starts here 👇 */
+.has-carbon-background-color {
+    background-color: #4A4A4A;
+}
+ 
+.has-carbon-color {
+    color: #4A4A4A;
+}
 
+.has-caramal-background-color {
+  background-color: #8B572A;
+}
+
+.has-caramel-color {
+  color: #8B572A;
+}
+
+.has-vanillla-background-color {
+  background-color: #EBE5D9;
+}
+
+.has-vanilla-color {
+  color: #EBE5D9;
+}
+
+.has-cappuccino-background-color {
+  background-color: #B09F82;
+}
+
+.has-cappuccino-color {
+  color: #B09F82;
+}
+
+.has-white-background-color {
+  background-color: white;
+}
+
+.has-white-color {
+  color:white;
+}
